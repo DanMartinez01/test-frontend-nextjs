@@ -1,155 +1,122 @@
 [
-    {
-      "id": "1",
-      "title": "Producto 1",
-      "vendor": "Proveedor A",
-      "ratings": [
-        {
-          "id": "1",
-          "score": 4.5,
-          "ratedBy": "usuario1"
-        },
-        {
-          "id": "2",
-          "score": 3.8,
-          "ratedBy": "usuario2"
-        }
-      ],
-      "reviews": 10,
-      "price": 25.99
-    },
-    {
-      "id": "2",
-      "title": "Producto 2",
-      "vendor": "Proveedor B",
-      "ratings": [
-        {
-          "id": "3",
-          "score": 4.2,
-          "ratedBy": "usuario3"
-        },
-        {
-          "id": "4",
-          "score": 4.7,
-          "ratedBy": "usuario4"
-        }
-      ],
-      "reviews": 8,
-      "price": 19.99
-    },
-    {
-      "id": "3",
-      "title": "Producto 3",
-      "vendor": "Proveedor C",
-      "ratings": [
-        {
-          "id": "5",
-          "score": 3.9,
-          "ratedBy": "usuario5"
-        },
-        {
-          "id": "6",
-          "score": 4.0,
-          "ratedBy": "usuario6"
-        }
-      ],
-      "reviews": 12,
-      "price": 29.99
-    },
-    {
-      "id": "4",
-      "title": "Producto 4",
-      "vendor": "Proveedor D",
-      "ratings": [
-        {
-          "id": "7",
-          "score": 4.8,
-          "ratedBy": "usuario7"
-        },
-        {
-          "id": "8",
-          "score": 4.5,
-          "ratedBy": "usuario8"
-        }
-      ],
-      "reviews": 15,
-      "price": 32.99
-    },
-    {
-      "id": "5",
-      "title": "Producto 5",
-      "vendor": "Proveedor E",
-      "ratings": [
-        {
-          "id": "9",
-          "score": 4.6,
-          "ratedBy": "usuario9"
-        },
-        {
-          "id": "10",
-          "score": 4.4,
-          "ratedBy": "usuario10"
-        }
-      ],
-      "reviews": 20,
-      "price": 27.99
-    },
-    {
-      "id": "6",
-      "title": "Producto 6",
-      "vendor": "Proveedor F",
-      "ratings": [
-        {
-          "id": "11",
-          "score": 4.3,
-          "ratedBy": "usuario11"
-        },
-        {
-          "id": "12",
-          "score": 4.1,
-          "ratedBy": "usuario12"
-        }
-      ],
-      "reviews": 18,
-      "price": 22.99
-    },
-    {
-      "id": "7",
-      "title": "Producto 7",
-      "vendor": "Proveedor G",
-      "ratings": [
-        {
-          "id": "13",
-          "score": 4.7,
-          "ratedBy": "usuario13"
-        },
-        {
-          "id": "14",
-          "score": 4.2,
-          "ratedBy": "usuario14"
-        }
-      ],
-      "reviews": 25,
-      "price": 35.99
-    },
-    {
-      "id": "8",
-      "title": "Producto 8",
-      "vendor": "Proveedor H",
-      "ratings": [
-        {
-          "id": "15",
-          "score": 4.9,
-          "ratedBy": "usuario15"
-        },
-        {
-          "id": "16",
-          "score": 4.6,
-          "ratedBy": "usuario16"
-        }
-      ],
-      "reviews": 22,
-      "price": 39.99
-    }
-  ]
-  
+  {
+    "id": "1",
+    "title": "My Chatbot with GeminiAI!",
+    "vendor": "Dani Martinez",
+    "ratings": [
+      {
+        "id": "1",
+        "score": 10,
+        "ratedBy": "usuario1"
+      },
+      {
+        "id": "2",
+        "score": 10,
+        "ratedBy": "usuario2"
+      }
+    ],
+    "reviews": 10,
+    "price": 0.00,
+    "imageUrl": "/Assets/portfolio.JPG"
+  },
+  {
+    "id": "2",
+    "title": "Producto 2",
+    "vendor": "Proveedor B",
+    "ratings": [
+      {
+        "id": "3",
+        "score": 4.2,
+        "ratedBy": "usuario3"
+      },
+      {
+        "id": "4",
+        "score": 4.7,
+        "ratedBy": "usuario4"
+      }
+    ],
+    "reviews": 8,
+    "price": 19.99,
+    "imageUrl": "https://raddy.dev/wp-content/uploads/2022/02/tailwind-crash-course-3.0.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Producto 3",
+    "vendor": "Proveedor C",
+    "ratings": [
+      {
+        "id": "5",
+        "score": 3.9,
+        "ratedBy": "usuario5"
+      },
+      {
+        "id": "6",
+        "score": 4.0,
+        "ratedBy": "usuario6"
+      }
+    ],
+    "reviews": 12,
+    "price": 29.99,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzsk05A37tQedZMOb2ixAFQiwzQV1H-hEA99DqGqUhOQ&s"
+  },
+  {
+    "id": "4",
+    "title": "Producto 4",
+    "vendor": "Proveedor D",
+    "ratings": [
+      {
+        "id": "7",
+        "score": 4.8,
+        "ratedBy": "usuario7"
+      },
+      {
+        "id": "8",
+        "score": 4.5,
+        "ratedBy": "usuario8"
+      }
+    ],
+    "reviews": 15,
+    "price": 32.99,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKWLIDmK_QZQZEWnu02HQjeEe3qD5hKXyV_mM9Rhl6Uw&s"
+  },
+  {
+    "id": "5",
+    "title": "Producto 5",
+    "vendor": "Proveedor E",
+    "ratings": [
+      {
+        "id": "9",
+        "score": 4.6,
+        "ratedBy": "usuario9"
+      },
+      {
+        "id": "10",
+        "score": 4.4,
+        "ratedBy": "usuario10"
+      }
+    ],
+    "reviews": 20,
+    "price": 27.99,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUEObIt-kqhH8149s7yQ0F9Bkg-2DpgxybxEaYQrNNIg&s"
+  },
+  {
+    "id": "6",
+    "title": "Producto 6",
+    "vendor": "Proveedor F",
+    "ratings": [
+      {
+        "id": "11",
+        "score": 4.3,
+        "ratedBy": "usuario11"
+      },
+      {
+        "id": "12",
+        "score": 4.1,
+        "ratedBy": "usuario12"
+      }
+    ],
+    "reviews": 18,
+    "price": 22.99,
+    "imageUrl": "https://cdn-hkbmd.nitrocdn.com/oafBXuvzPmdWIJjEXcmOZohCctqZKliv/assets/images/optimized/rev-e2fe975/www.xevensolutions.com/wp-content/uploads/2024/02/Googles-Gemini-AI-Uses-Features-and-Industry-Impact-1-1536x774.jpg"
+  }
+]
